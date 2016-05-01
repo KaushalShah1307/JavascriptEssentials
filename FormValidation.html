@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Let`s learn JS</title>
+    <script type="text/javascript">
+
+        function validateIt() {
+            if (document.ClickForm.checkbox.checked){
+                alert("The Checkbox is checked!");
+            }
+            else {
+                alert("Please check if the checkbox is checked!");
+            }
+        }
+
+    </script>
+</head>
+<body>
+
+    <form name="ClickForm">
+        <input type="checkbox" name="checkbox" />
+        <input type="button" value="Click Me!" onclick= validateIt(); />
+    </form>
+
+</body>
+</html>

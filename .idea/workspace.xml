@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37ce57c5-d1d1-4844-98c5-3a5b8e924769" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="37ce57c5-d1d1-4844-98c5-3a5b8e924769" name="Default" comment="" />
     <ignored path="JavaScript_Tutorials.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="FormValidation.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FormValidation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            <state relative-caret-position="225">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -68,6 +66,7 @@
         <option value="$PROJECT_DIR$/EventHandler.js" />
         <option value="$PROJECT_DIR$/ArrayLoops.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/FormValidation.html" />
       </list>
     </option>
   </component>
@@ -141,10 +140,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
-    <configuration default="false" name="PracticalLoops.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="PracticalLoops.js" working-dir="$PROJECT_DIR$">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.FormValidation.html">
     <configuration default="false" name="Switch.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Switch.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
@@ -155,6 +151,9 @@
       <method />
     </configuration>
     <configuration default="false" name="ArrayLoops.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript_Tutorials/ArrayLoops.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="FormValidation.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript_Tutorials/FormValidation.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -211,19 +210,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.PracticalLoops.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.Switch.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.WhileLoop.js" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.ArrayLoops.html" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.Switch.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.WhileLoop.js" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.ArrayLoops.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.FormValidation.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.ArrayLoops.html" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.WhileLoop.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.Switch.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.PracticalLoops.js" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.FormValidation.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.ArrayLoops.html" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.WhileLoop.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.Switch.js" />
       </list>
     </recent_temporary>
   </component>
@@ -242,12 +241,12 @@
       <updated>1460857231816</updated>
       <workItem from="1460857233217" duration="1115000" />
       <workItem from="1461291209685" duration="10116000" />
-      <workItem from="1462064757115" duration="3007000" />
+      <workItem from="1462064757115" duration="3549000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14238000" />
+    <option name="totallyTimeSpent" value="14780000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="760" extended-state="0" />
@@ -452,6 +451,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FormValidation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
